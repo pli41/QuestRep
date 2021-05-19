@@ -1,8 +1,0 @@
-## Interface: 11307
-## Title: QuestRep
-## Notes: Show rep for quests in quest description
-## Author: pli
-## Version: 1.0
-
-db.lua
-main.lua
